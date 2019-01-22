@@ -19,6 +19,6 @@ Given an input file of textual phrases and weights, the user can ask the system 
 
 #### Examples of running program:
 ![alt text](./screenshots/autocomplete_movie_data_bst_1.jpg "Screenshot 1")
-![alt text](./screenshots/autocomplete_movie_data_bst_2.jpg "Screenshot 1")
-![alt text](./screenshots/autocomplete_movie_data_bst_3.jpg "Screenshot 1")
+![alt text](./screenshots/autocomplete_movie_data_bst_2.jpg "Screenshot 2")
+![alt text](./screenshots/autocomplete_movie_data_bst_3.jpg "Screenshot 3")
 
